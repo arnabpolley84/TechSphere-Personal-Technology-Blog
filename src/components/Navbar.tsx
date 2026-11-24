@@ -27,7 +27,7 @@ export default function Navbar() {
           onClick={() => setMobileMenuOpen(false)}
           className="text-xl font-bold tracking-tight text-slate-900 whitespace-nowrap shrink-0 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-blue-600"
         >
-          Tech<span className="text-blue-700">Sphere</span>
+          TechSpere<span className="text-blue-700">-React</span>
         </Link>
 
         <nav
