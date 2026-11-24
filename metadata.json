@@ -1,0 +1,6 @@
+{
+  "name": "TechSphere",
+  "description": "A clean, modern personal technology blog exploring web engineering, AI systems, cloud infrastructure, cybersecurity, and hardware.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
